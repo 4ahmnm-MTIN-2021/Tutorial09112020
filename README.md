@@ -1,13 +1,13 @@
-# Template2D-Unity202015f1
+# Tutorial09112020
 
 ### Project description: 
-Introduction/Project summary 
+Uebung von C# Begriffen, Klassen deklaration, Methoden deklaration, namespaces, Debug.Log, unterschied return type void und anderer Datentyp (int, string).
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+Windows 10, Unity 2020.1.5f1, VS Community 2019
 
 ### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
+None
 
 ### Visuals: 
 Screenshots (concept and experience), Video
@@ -25,4 +25,4 @@ incl. progress in percent
 
 ### Lessons Learned: 
 
-Copyright by you :)
+Copyright by smeerws
